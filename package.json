@@ -9,9 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@prisma/client": "^7.5.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/uuid": "^10.0.0",
+    "bcryptjs": "^3.0.3",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.577.0",
     "next": "16.1.6",
+    "prisma": "^7.5.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "recharts": "^3.8.0",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
